@@ -12,3 +12,8 @@ Before attempting to solve the maze, the program displays its initial state usin
 Once the solving process is complete, the program displays the maze again. If a solution exists, the path to the goal is marked, and the result is displayed. If no path is found, the program informs the user accordingly.
 
 This program is robust in handling errors, ensuring proper inputs and validating the maze structure before solving. It demonstrates the efficiency of DFS in exploring and solving mazes while providing clear feedback on the maze's state before and after solving. The use of recursive backtracking ensures that all possible paths are explored, making it a reliable approach to solving maze problems.
+
+![image](https://github.com/user-attachments/assets/980cbced-0a87-4fb9-8ff6-b8ecb9c7f34a)
+![image](https://github.com/user-attachments/assets/565efe5e-d9e1-46e7-80bf-d99d8f4299c7)
+
+
